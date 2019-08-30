@@ -1,0 +1,5 @@
+name: CustomJukebox
+authors: [YourPalJake, X1XX]
+main: com.azortis.customjukebox.CustomJukebox
+version: 1.0
+api-version: 1.13
